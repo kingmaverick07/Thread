@@ -1,6 +1,8 @@
  <table>
+ //Use table tag
   <thead>
     <tr>
+    //Opening of thread
       <th>Month</th>
       <th>Savings</th>
     </tr>
